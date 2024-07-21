@@ -1,9 +1,11 @@
 @import "../../responsive.scss";
 
 .layout {
+  // transform: scale(0.9); 
   height: 100vh;
   // overflow: scroll;
   max-width: 1366px;
+  
   margin-left: auto;
   margin-right: auto;
   padding-left: 20px;
@@ -31,7 +33,8 @@
     // flex: 1;
     // height: calc(100vh - 100px);
     overflow-y: scroll;
-    overflow-y: hidden;
+    overflow-x: hidden;
+
   }
 }
 
