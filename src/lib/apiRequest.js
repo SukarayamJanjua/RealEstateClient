@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const apiRequest = axios.create({
-  baseURL: "https://realestate-backend-xsgb.onrender.com/api",
+  baseURL: "https://realestate-production-482b.up.railway.app/api",
   withCredentials: true,
 });
 
