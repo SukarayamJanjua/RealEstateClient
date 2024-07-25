@@ -20,10 +20,10 @@ Users have the ability to update personal details and manage profile photos, ens
 Facilitates seamless interaction between potential buyers/renters and property owners, encouraging prompt and effective communication.
 
 ## Technology Stack:
-MongoDB: Utilized for its flexible schema and scalability, ideal for managing property data.
-Express.js: Serves as the backend framework, providing a robust set of features for building APIs.
-React: Powers the frontend, offering a responsive and dynamic user interface.
-Node.js: Handles server-side operations, ensuring efficient processing and responsiveness.
+**MongoDB:** Utilized for its flexible schema and scalability, ideal for managing property data.
+**Express.js:** Serves as the backend framework, providing a robust set of features for building APIs.
+**React:** Powers the frontend, offering a responsive and dynamic user interface.
+**Node.js:** Handles server-side operations, ensuring efficient processing and responsiveness.
 This application combines intuitive design with powerful functionality, providing users with a secure, engaging, and efficient real estate marketplace.
 
 
